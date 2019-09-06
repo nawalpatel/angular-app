@@ -1,0 +1,12 @@
+a{
+    display:block;
+    background-color: azure;
+    color:blue;
+    float:left;
+    padding:10px;
+    border-left: 1px solid grey;
+}
+a:hover{
+    background-color:green;
+    color:white;
+}
